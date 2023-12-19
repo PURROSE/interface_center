@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5823da82-240c-4947-8153-bc7b0a85a35c" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DbMoudel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/java/com/purplerosechen/ic/config_server/StartConfigServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/eureka_server-dev.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/gateway_server-dev.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/login_server-dev.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/java/com/purplerosechen/ic/eureka_server/StartEurekaServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateWayServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateWayServer/src/main/java/com/purplerosechen/ic/gateway_server/StartGateWayServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateWayServer/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_center_view/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_center_view/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginServer/src/main/java/com/purplerosechen/ic/login_server/StartLoginServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginServer/src/main/java/com/purplerosechen/ic/login_server/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginServer/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="yaml" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Zh4bExkiQRbhYSKa19vrsavrxq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ApiPost:METDOD_SEND_RECORD:loginServer": "{\"/login/login\":[{\"url\":\"http://localhost:8080/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"There was an error accessing to URL: http://localhost:8080/login/login\\n\\nConnectException: Connection refused: connect\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":45.0,\"second\":19.0,\"nano\":6.953592E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":45.0,\"second\":30.0,\"nano\":6.551485E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":47.0,\"second\":52.0,\"nano\":5.260514E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":48.0,\"second\":0.0,\"nano\":7.149555E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":48.0,\"second\":1.0,\"nano\":6.477478E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":48.0,\"second\":16.0,\"nano\":4.09068E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023,\"month\":12,\"day\":18},\"time\":{\"hour\":19,\"minute\":48,\"second\":17,\"nano\":678753900}}}]}",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "spring",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\interface_center\interface_center_view\src\assets" />
+      <recent name="D:\work\interface_center\interface_center_view\public" />
+      <recent name="D:\work\interface_center" />
+      <recent name="D:\work\interface_center\loginServer" />
+      <recent name="D:\work\interface_center\configServer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.启动视图">
+    <configuration name="配置中心" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.purplerosechen.ic.config_server.StartConfigServerMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="服务注册中心" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="eurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.purplerosechen.ic.eureka_server.StartEurekaServerMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purplerosechen.ic.eureka_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="网关" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="gateWayServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.purplerosechen.ic.gateway_server.StartGateWayServerMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purplerosechen.ic.gateway_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="登录服务" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="loginServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.purplerosechen.ic.login_server.StartLoginServerMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purplerosechen.ic.login_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="注册中心" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="eurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.purplerosechen.ic.eureka_server.StartEurekaServerMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="启动视图" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/interface_center_view/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.启动视图" />
+      <item itemvalue="Spring Boot.配置中心" />
+      <item itemvalue="Spring Boot.登录服务" />
+      <item itemvalue="Spring Boot.网关" />
+      <item itemvalue="Spring Boot.服务注册中心" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.登录服务" />
+        <item itemvalue="Spring Boot.网关" />
+        <item itemvalue="Spring Boot.服务注册中心" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringProfilesService">
+    <option name="activeProfiles">
+      <map>
+        <entry key="configServer" value="application.yaml" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5823da82-240c-4947-8153-bc7b0a85a35c" name="更改" comment="" />
+      <created>1702861050630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702861050630</updated>
+      <workItem from="1702861054923" duration="357000" />
+      <workItem from="1702861439473" duration="10665000" />
+      <workItem from="1702881762361" duration="18361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

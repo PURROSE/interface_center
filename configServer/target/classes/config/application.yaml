@@ -1,0 +1,31 @@
+server:
+  max-http-request-header-size: 24KB
+spring:
+  datasource:
+    url: jdbc:postgresql://www.purplerosechen.com:5432/interface_center
+    username: interface_center_admin
+    password: MAC0385mac
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      connection-timeout: 30000
+      maximum-pool-size: 10
+      minimum-idle: 5
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      pool-name: interface_center
+      auto-commit: true
+      connection-test-query: SELECT 1
+  data:
+    redis:
+      host: www.purplerosechen.com
+      port: 6379
+      password: MAC0385mac
+      timeout: 30000
+      database: 0
+      lettuce:
+        pool:
+          enabled: true
+          max-active: 100
+          max-idle: 8
+          min-idle: 5
+          max-wait: 100
