@@ -4,38 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5823da82-240c-4947-8153-bc7b0a85a35c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DbMoudel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/java/com/purplerosechen/ic/config_server/StartConfigServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/eureka_server-dev.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/gateway_server-dev.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configServer/src/main/resources/config/login_server-dev.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/java/com/purplerosechen/ic/eureka_server/StartEurekaServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaServer/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateWayServer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateWayServer/src/main/java/com/purplerosechen/ic/gateway_server/StartGateWayServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateWayServer/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_center_view/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_center_view/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginServer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginServer/src/main/java/com/purplerosechen/ic/login_server/StartLoginServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginServer/src/main/java/com/purplerosechen/ic/login_server/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginServer/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5823da82-240c-4947-8153-bc7b0a85a35c" name="更改" comment="同步基础框架">
+      <change afterPath="$PROJECT_DIR$/interface_center_view/src/components/loginVue/LoginVue.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_center_view/src/components/loginVue/RegisterVue.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_center_view/src/views/AdminControllerView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_center_view/src/views/LoginView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/23045eb1-65ca-44d3-9eec-a68012455134.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/23045eb1-65ca-44d3-9eec-a68012455134.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_center_view/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_center_view/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/interface_center_view/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_center_view/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/interface_center_view/src/views/HomeView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +31,7 @@
       <list>
         <option value="yaml" />
         <option value="Class" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -70,38 +55,47 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2Zh4bExkiQRbhYSKa19vrsavrxq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ApiPost:METDOD_SEND_RECORD:loginServer": "{\"/login/login\":[{\"url\":\"http://localhost:8080/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"There was an error accessing to URL: http://localhost:8080/login/login\\n\\nConnectException: Connection refused: connect\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":45.0,\"second\":19.0,\"nano\":6.953592E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":45.0,\"second\":30.0,\"nano\":6.551485E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":47.0,\"second\":52.0,\"nano\":5.260514E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":48.0,\"second\":0.0,\"nano\":7.149555E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":48.0,\"second\":1.0,\"nano\":6.477478E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023.0,\"month\":12.0,\"day\":18.0},\"time\":{\"hour\":19.0,\"minute\":48.0,\"second\":16.0,\"nano\":4.09068E8}}},{\"url\":\"http://localhost:20001/login/login\",\"header\":[{\"is_checked\":0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2023,\"month\":12,\"day\":18},\"time\":{\"hour\":19,\"minute\":48,\"second\":17,\"nano\":678753900}}}]}",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "spring",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ApiPost:METDOD_SEND_RECORD:loginServer&quot;: &quot;{\&quot;/login/login\&quot;:[{\&quot;url\&quot;:\&quot;http://localhost:8080/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;There was an error accessing to URL: http://localhost:8080/login/login\\n\\nConnectException: Connection refused: connect\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023.0,\&quot;month\&quot;:12.0,\&quot;day\&quot;:18.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:45.0,\&quot;second\&quot;:19.0,\&quot;nano\&quot;:6.953592E8}}},{\&quot;url\&quot;:\&quot;http://localhost:20001/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023.0,\&quot;month\&quot;:12.0,\&quot;day\&quot;:18.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:45.0,\&quot;second\&quot;:30.0,\&quot;nano\&quot;:6.551485E8}}},{\&quot;url\&quot;:\&quot;http://localhost:20001/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023.0,\&quot;month\&quot;:12.0,\&quot;day\&quot;:18.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:47.0,\&quot;second\&quot;:52.0,\&quot;nano\&quot;:5.260514E8}}},{\&quot;url\&quot;:\&quot;http://localhost:20001/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023.0,\&quot;month\&quot;:12.0,\&quot;day\&quot;:18.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:48.0,\&quot;second\&quot;:0.0,\&quot;nano\&quot;:7.149555E8}}},{\&quot;url\&quot;:\&quot;http://localhost:20001/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023.0,\&quot;month\&quot;:12.0,\&quot;day\&quot;:18.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:48.0,\&quot;second\&quot;:1.0,\&quot;nano\&quot;:6.477478E8}}},{\&quot;url\&quot;:\&quot;http://localhost:20001/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023.0,\&quot;month\&quot;:12.0,\&quot;day\&quot;:18.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:48.0,\&quot;second\&quot;:16.0,\&quot;nano\&quot;:4.09068E8}}},{\&quot;url\&quot;:\&quot;http://localhost:20001/login/login\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2023,\&quot;month\&quot;:12,\&quot;day\&quot;:18},\&quot;time\&quot;:{\&quot;hour\&quot;:19,\&quot;minute\&quot;:48,\&quot;second\&quot;:17,\&quot;nano\&quot;:678753900}}}]}&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.启动视图.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\interface_center\interface_center_view\src\assets" />
@@ -187,17 +181,7 @@
     <list>
       <item itemvalue="npm.启动视图" />
       <item itemvalue="Spring Boot.配置中心" />
-      <item itemvalue="Spring Boot.登录服务" />
-      <item itemvalue="Spring Boot.网关" />
-      <item itemvalue="Spring Boot.服务注册中心" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.登录服务" />
-        <item itemvalue="Spring Boot.网关" />
-        <item itemvalue="Spring Boot.服务注册中心" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SpringProfilesService">
@@ -216,12 +200,29 @@
       <updated>1702861050630</updated>
       <workItem from="1702861054923" duration="357000" />
       <workItem from="1702861439473" duration="10665000" />
-      <workItem from="1702881762361" duration="18361000" />
+      <workItem from="1702881762361" duration="19496000" />
+      <workItem from="1703508539272" duration="8252000" />
+      <workItem from="1703560623746" duration="9509000" />
+      <workItem from="1703649438458" duration="86000" />
     </task>
+    <task id="LOCAL-00001" summary="同步基础框架">
+      <option name="closed" value="true" />
+      <created>1702947397877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702947397878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="同步基础框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="同步基础框架" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
